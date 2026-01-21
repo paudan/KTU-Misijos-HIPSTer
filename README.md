@@ -11,6 +11,8 @@ git clone https://github.com/evavaic/KTU-Misijos-HIPSTer.git
 
 # Unzip the dataset inside the data directory
 unzip KTU-Misijos-HIPSTer/data/RuToxic.zip -d KTU-Misijos-HIPSTer/data/
+unzip KTU-Misijos-HIPSTer/data/EnToxiGen.zip -d KTU-Misijos-HIPSTer/data/
+unzip KTU-Misijos-HIPSTer/data/EnSuperset.zip -d KTU-Misijos-HIPSTer/data/
 ```
 
 # 🧹 How to clean up everything
